@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.suo.user
+*.log
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
